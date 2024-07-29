@@ -4,7 +4,7 @@ A fun and simple dice game called Pig, implemented in JavaScript, HTML, and CSS.
 
 ## Live Demo 🚀
 
-Check out the live demo [here](https://example.com/pig-game-demo)
+Check out the live demo [here](https://two-player-timepass.netlify.app/)
 
 ## Screenshots 📸
 
